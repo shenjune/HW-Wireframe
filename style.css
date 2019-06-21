@@ -9,6 +9,7 @@ body {
 .Header {
     background: #ebebeb;
     padding: 5px;
+    margin-top: 10px;
     margin-bottom: 10px;
     text-align: center;
 }
@@ -39,6 +40,7 @@ body {
     color: #ebebeb;
     background-color: #777777;
     margin: auto;
+    height: 250;
 }
 
 #h1,h2,h3 {
