@@ -42,6 +42,10 @@ body {
     margin: auto;
     height: 200px;
 }
+#Article-Text {
+    line-height: 54px;
+    margin: 0;
+}
 
 #headers {
     color: #777777;
@@ -50,6 +54,7 @@ body {
     text-align: center;
     margin-left: 5px;
     margin-right: 5px;
+    margin-top: 2px;
 }
 
 #P {
@@ -59,6 +64,7 @@ body {
     margin-left: 5px;
     margin-right: 5px;
     text-align: center;
+    line-height: 40px;
 }
 
 .Aside {
